@@ -1,1 +1,1 @@
-# una-algprog-lista05
+# mca-logalg-02
